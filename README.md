@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently learning Machine Learning and Web dev<br>🌱 I’m a C++ programmer and I love learning about programming<br>
+🔭 I’m currently learning Machine Learning and Web dev<br>🌱 I’m a python programmer and I love learning about programming<br>
 
 
 ## 🌐 Socials:
